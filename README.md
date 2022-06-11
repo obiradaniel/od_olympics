@@ -8,5 +8,5 @@ Analysis of Olympics Data from 1896 to 2020.
 
 I picked this over Yelp or American Lobyists tweets beacuse of Interest in Sports and it being something I could relate to as a Ugandan.
 
-#Processing
+## Processing
 Data is processed and documented in a Jupyter python notebook.
